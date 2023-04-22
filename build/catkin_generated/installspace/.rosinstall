@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nuclearfree/catkin_ws/disaster_response/install/setup.sh

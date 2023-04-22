@@ -1,0 +1,2 @@
+apriltag_detection:explore:restriction_point:turtlebot3_navigation:turtlebot3_slam
+-DCATKIN_DEVEL_PREFIX=/home/nuclearfree/catkin_ws/disaster_response/devel -DCMAKE_INSTALL_PREFIX=/home/nuclearfree/catkin_ws/disaster_response/install -G Unix Makefiles

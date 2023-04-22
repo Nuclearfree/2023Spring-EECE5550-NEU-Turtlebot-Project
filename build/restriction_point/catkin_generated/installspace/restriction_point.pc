@@ -1,0 +1,8 @@
+prefix=/home/nuclearfree/catkin_ws/disaster_response/install
+
+Name: restriction_point
+Description: Description of restriction_point
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
