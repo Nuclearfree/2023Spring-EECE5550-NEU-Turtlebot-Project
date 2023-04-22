@@ -1,4 +1,4 @@
-# Turtlebot3 Burger moving robot
+# NEU EECE5550 Group 9 Turtlebot3 Disaster Response Project
 ## Environment Setup
 This project was based on ubuntu 20.04(Focal Fossa) and ros noetic version.
 For quickly developing, we use [docker](https://en.wikipedia.org/wiki/Docker_(software)) to manager our environment.
